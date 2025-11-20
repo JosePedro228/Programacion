@@ -1,1 +1,1 @@
-creo el fichero readme con el cambio
+Mi programa Jose Barros
