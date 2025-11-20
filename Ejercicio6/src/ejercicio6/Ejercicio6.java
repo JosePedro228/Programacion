@@ -49,7 +49,7 @@ public class Ejercicio6 {
     }
 
     public static void Tarea1() {
-        System.out.println("Ponga un numero");
+        System.out.println("Ponga un ffnumero");
         int num = sc.nextInt();
         if (num != 0) {
             for (int i = num; i >= 1; i--) {
